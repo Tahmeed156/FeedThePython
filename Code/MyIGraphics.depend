@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1493292029 source:c:\users\user\dropbox\cse105\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493291669 c:\users\user\dropbox\cse105\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493292029 source:c:\users\user\dropbox\cse105\igraphics\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1493346732 source:c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1493431354 c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493292029 source:c:\users\ashikur\dropbox\cse105\igraphics\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493432004 source:c:\users\ashikur\documents\myigraphics\bmpload.c
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1391970930 source:c:\users\ashikur\documents\myigraphics\picturedemo.cpp
+	"iGraphics.h"
+
+1493432174 c:\users\ashikur\documents\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1493431718 source:c:\users\ashikur\documents\myigraphics\picturedemoanim.cpp
+	"iGraphics.h"
+
+1532840773 source:e:\c_c++\cse labs\bmp\myigraphics\imain.cpp
+	"iGraphics.h"
+	"Login.h"
+	"Main_menu.h"
+	"LeaderBoard.h"
+	"Gameover.h"
+	"Help.h"
+	<string.h>
+	<mmsystem.h>
+
+1532708356 e:\c_c++\cse labs\bmp\myigraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532093432 source:e:\c_c++\cse labs\bmp\myigraphics\picturedemotrump.cpp
+	"iGraphics.h"
+	<mmsystem.h>
+
+1532448505 source:e:\c_c++\cse labs\bmp\myigraphics\for_speed_up.cpp
+	"iGraphics.h"
+	<string.h>
+	<mmsystem.h>
+
+1532703064 source:e:\c_c++\cse labs\bmp\myigraphics\login.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532832592 e:\c_c++\cse labs\bmp\myigraphics\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532841014 e:\c_c++\cse labs\bmp\myigraphics\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1532775750 e:\c_c++\cse labs\bmp\myigraphics\gameover.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532798532 e:\c_c++\cse labs\bmp\myigraphics\leaderboard.h
+	<string.h>
+
+1532747331 source:e:\c_c++\cse labs\bmp\myigraphics\leaderboard.cpp
+	"iGraphics.h"
+	<string.h>
+
+1532805391 source:e:\c_c++\cse labs\bmp\myigraphics\help.cpp
+	"iGraphics.h"
+
+1532806169 e:\c_c++\cse labs\bmp\myigraphics\help.h
+
+1532845451 source:e:\c_c++\cse labs\bmp\feed the python\imain.cpp
+	"iGraphics.h"
+	"Login.h"
+	"Main_menu.h"
+	"LeaderBoard.h"
+	"Gameover.h"
+	"Help.h"
+	<string.h>
+	<mmsystem.h>
+
+1532708356 e:\c_c++\cse labs\bmp\feed the python\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532832592 e:\c_c++\cse labs\bmp\feed the python\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532841014 e:\c_c++\cse labs\bmp\feed the python\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1532845256 e:\c_c++\cse labs\bmp\feed the python\leaderboard.h
+	<string.h>
+
+1532775750 e:\c_c++\cse labs\bmp\feed the python\gameover.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532806169 e:\c_c++\cse labs\bmp\feed the python\help.h
+
+1532864443 source:e:\projects\cse\feed the python\imain.cpp
+	"iGraphics.h"
+	"Login.h"
+	"Main_menu.h"
+	"LeaderBoard.h"
+	"Gameover.h"
+	"Help.h"
+	<string.h>
+	<mmsystem.h>
+
+1532708356 e:\projects\cse\feed the python\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532832592 e:\projects\cse\feed the python\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532841014 e:\projects\cse\feed the python\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1532845256 e:\projects\cse\feed the python\leaderboard.h
+	<string.h>
+
+1532775750 e:\projects\cse\feed the python\gameover.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532806169 e:\projects\cse\feed the python\help.h
+
+1532864443 source:e:\projects\cse\feed the python\code\imain.cpp
+	"iGraphics.h"
+	"Login.h"
+	"Main_menu.h"
+	"LeaderBoard.h"
+	"Gameover.h"
+	"Help.h"
+	<string.h>
+	<mmsystem.h>
+
+1532708356 e:\projects\cse\feed the python\code\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532832592 e:\projects\cse\feed the python\code\login.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532841014 e:\projects\cse\feed the python\code\main_menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1532845256 e:\projects\cse\feed the python\code\leaderboard.h
+	<string.h>
+
+1532775750 e:\projects\cse\feed the python\code\gameover.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1532806169 e:\projects\cse\feed the python\code\help.h
+
