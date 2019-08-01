@@ -38,5 +38,7 @@ The snake has 3 lives. Its game over if the player loses all 3.
 
 Its possible to pause and resume the game.
 
+<img src="ScreenShots/36988134_1105594569604725_6169808159511674880_n.jpg" width="500">
+
 The game takes inspiration from the classic snake and tetris games.
 
