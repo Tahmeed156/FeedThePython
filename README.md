@@ -1,10 +1,17 @@
-<h1>CSE 102 Term Project</h1> 
+<h1>Feed the Python</h1> 
 
-Project Name :  Feed_the_python
+Term Project : CSE 102
 
-Project Developers : Najibul Haque Sarker, Tahmeed Tareq, Ayan Antik Khan
+Platform : Windows
 
-<h1>Project Description :</h1>
+Language and tools : C++, Igraphics
+
+Project Developers : 
+1. Najibul Haque Sarker (1705044)
+2. Tahmeed Tarek (1705039)
+3. Ayan Antik Khan (1705036)
+
+<h1>Project Walkthrough</h1>
 
 First login using a username. 
 
